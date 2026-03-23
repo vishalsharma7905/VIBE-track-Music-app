@@ -1,0 +1,10 @@
+node_modules
+dist
+build
+.gradle
+.idea
+.vscode
+android/.gradle
+android/local.properties
+flutter_wrapper/build
+flutter_wrapper/.dart_tool
